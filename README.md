@@ -4,9 +4,11 @@
 <h2>By: 	Matthew I. Swindall , Timothy Player , Ben Keener , Alex C. Williams ,James H. Brusuelas , Federica Nicolardi , Marzia D’Angelo ,
 	Claudio Vergara , Michael McOsker and John F. Wallin</h2>
 
-<h3>IJCAI-2022 Supplement</h3>
+<h3>IJCAI-2022 Supplement - Catagorical Models</h3>
 
 <h3>Classification Models and Inference Demonstration Jupyter Notebook</h3>
+
+<a><img src="./psi_b_48.jpg" align="left" height="333" width="250" ><img src="./xii_b_49.jpg" align="left" height="333" width="250" ></a>
 
 <h3>Abstract --------------------------------------------------------------</h3>
 
