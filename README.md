@@ -1,5 +1,5 @@
 
-Dataset Augmentation in Papyrology with Generative Models: A Study of Synthetic Ancient Greek Character Images
+<\h1>Dataset Augmentation in Papyrology with Generative Models: A Study of Synthetic Ancient Greek Character Images<\h1>
 
 By: Matthew Swindall
 
