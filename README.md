@@ -10,6 +10,8 @@
 
 <a><img src="./psi_b_48.jpg" align="left" height="250" width="250" ><img src="./xii_b_49.jpg" align="left" height="250" width="250" ></a>
 
+<br>
+
 <h3>Abstract --------------------------------------------------------------</h3>
 
 Character recognition models rely substantially on image datasets that maintain a balance of class samples. However, achieving a balance of classes is particularly challenging for ancient manuscript contexts as character instances may be significantly limited. In this paper, we present findings from a study that assess the efficacy of using synthetically generated character instances to augment an existing dataset of ancient Greek character images for use in machine learning models. We complement our model exploration by engaging professional papyrologists to better understand the practical opportunities afforded by synthetic instances. Our results
