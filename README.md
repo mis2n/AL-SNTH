@@ -1,25 +1,33 @@
 
-This Greek Character Does Not Exist - Deployment Demonstration
+Dataset Augmentation in Papyrology with Generative Models: A Study of Synthetic Ancient Greek Character Images
 
 By: Matthew Swindall
 
-For: CSCI 7850 - Deep Learning - Term Project - MTSU - Fall 2021
+IJCAI-2022 Supplement
 
 Abstract --------------------------------------------------------------
 
-Generative adversarial neural networks (GANs) are
-increasingly utilized to increase sample size for datasets with
-class imbalance or insufficient data for training. This is a boon for
-challenging datasets such as those from crowdsourcing initiatives.
-The AL ALL dataset is an ideal testing ground for such a
-technique as the sub-samples range in size from 62 to over
-46,000. Here, we use the PyTorch implementation of StyleGAN2
-to double some of the smallest samples in AL ALL, and train
-a classic CNN and a ResNet on the new dataset comparing the
-results to the same models trained with the original data. Modest
-per-character accuracy increases of 8% to 12% were achieved.
-Further improvements may be possible by utilizing attention
-based architectures.
+Character recognition models rely substantially on
+image datasets that maintain a balance of class
+samples. However, achieving a balance of classes
+is particularly challenging for ancient manuscript
+contexts as character instances may be significantly
+limited. In this paper, we present findings from a
+study that assess the efficacy of using synthetically
+generated character instances to augment an existing
+dataset of ancient Greek character images for
+use in machine learning models. We complement
+our model exploration by engaging professional papyrologists
+to better understand the practical opportunities
+afforded by synthetic instances. Our results
+suggest that synthetic instances improve model performance
+for limited character classes, and may
+have unexplored effects on character classes more
+generally. We also find that trained papyrologists
+are unable to distinguish between synthetic
+and non-synthetic images and regard synthetic instances
+as valuable assets for professional and educational
+contexts. We conclude by discussing the practical implications of our research.
 
 -----------------------------------------------------------------------
 
