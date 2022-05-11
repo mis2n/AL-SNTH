@@ -8,7 +8,8 @@
 
 <h3>Classification Models and Inference Demonstration Jupyter Notebook</h3>
 
-<a><img src="./psi_b_48.jpg" align="left" height="250" width="250" ><img src="./xii_b_49.jpg" align="left" height="250" width="250" ></a>
+<a><img src="./psi_b_48.jpg" align="left" height="250" width="250" ><img src="./psi_b_48.jpg" align="left" height="333" width="250" >
+<img src="./CNN_accuracy.png" align="left" height="333" width="250" ><img src="./resbet_accuracy.png" align="left" height="333" width="250" ></a>
 
 <br>
 <p>
