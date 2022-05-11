@@ -1,7 +1,8 @@
 
-<\h1>Dataset Augmentation in Papyrology with Generative Models: A Study of Synthetic Ancient Greek Character Images<\h1>
+Dataset Augmentation in Papyrology with Generative Models: A Study of Synthetic Ancient Greek Character Images
 
-By: Matthew Swindall
+By: 	Matthew I. Swindall , Timothy Player , Ben Keener , Alex C. Williams ,James H. Brusuelas , Federica Nicolardi , Marzia D’Angelo ,
+	Claudio Vergara , Michael McOsker and John F. Wallin
 
 IJCAI-2022 Supplement
 
