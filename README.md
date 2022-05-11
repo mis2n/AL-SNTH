@@ -4,16 +4,16 @@
 <h2>By: 	Matthew I. Swindall , Timothy Player , Ben Keener , Alex C. Williams ,James H. Brusuelas , Federica Nicolardi , Marzia D’Angelo ,
 	Claudio Vergara , Michael McOsker and John F. Wallin</h2>
 
-IJCAI-2022 Supplement
+<h3>IJCAI-2022 Supplement</h3>
 
-Classification Models and Inference Demonstration Jupyter Notebook
+<h3>Classification Models and Inference Demonstration Jupyter Notebook</h3>
 
-Abstract --------------------------------------------------------------
+<h3>Abstract --------------------------------------------------------------</h3>
 
 Character recognition models rely substantially on image datasets that maintain a balance of class samples. However, achieving a balance of classes is particularly challenging for ancient manuscript contexts as character instances may be significantly limited. In this paper, we present findings from a study that assess the efficacy of using synthetically generated character instances to augment an existing dataset of ancient Greek character images for use in machine learning models. We complement our model exploration by engaging professional papyrologists to better understand the practical opportunities afforded by synthetic instances. Our results
 suggest that synthetic instances improve model performance for limited character classes, and may have unexplored effects on character classes more generally. We also find that trained papyrologists are unable to distinguish between synthetic and non-synthetic images and regard synthetic instances as valuable assets for professional and educational contexts. We conclude by discussing the practical implications of our research.
 
------------------------------------------------------------------------
+<h3>-----------------------------------------------------------------------</h3>
 
 The models trained for our paper are made availabl here openly for public used. The inference deployment consists of a helper library, deploy.py, as the backend with the Jupyter notebook, deploy.ipynb, as the frontend. To run the demonstration, simply open the notebook in an standard Anaconda environment with the necessary libraries. Further version and library information can be found below.
 
