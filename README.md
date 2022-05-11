@@ -9,7 +9,7 @@
 <h3>Classification Models and Inference Demonstration Jupyter Notebook</h3>
 
 <a><img src="./psi_b_48.jpg" align="left" height="250" width="250" ><img src="./xi_b_49.jpg" align="left" height="250" width="250">
-   <img src="./cnnbase.png" align="left" height="399" width="467" ><img src="./resnet.png" align="left" height="559" width="724"></a>
+   <img src="./cnnbase.png" align="left" height="399" width="467" ><img src="./resnet.png" align="left" height="724" width="559"></a>
 
 <div>
 <h3>Abstract --------------------------------------------------------------</h3>
