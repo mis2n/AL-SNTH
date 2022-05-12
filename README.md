@@ -8,7 +8,7 @@
 
 <h3>Classification Models and Inference Demonstration Jupyter Notebook</h3>
 
-<a><img src="./psi_b_48.jpg" align="left" height="500" width="500" ><img src="./xi_b_49.jpg" align="left" height="500" width="500"></a>
+<a><img src="./psi_b_48.jpg" align="left" height="450" width="450" ><img src="./xi_b_49.jpg" align="left" height="450" width="450"></a>
 
 <div>
 <h3>Abstract --------------------------------------------------------------</h3>
