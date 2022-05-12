@@ -8,16 +8,14 @@
 
 <h3>Classification Models and Inference Demonstration Jupyter Notebook</h3>
 
-<a><img src="./psi_b_48.jpg" align="left" height="450" width="450" ><img src="./xi_b_49.jpg" align="left" height="450" width="450"></a>
 
-<div>
 <h3>Abstract --------------------------------------------------------------</h3>
 
 Character recognition models rely substantially on image datasets that maintain a balance of class samples. However, achieving a balance of classes is particularly challenging for ancient manuscript contexts as character instances may be significantly limited. In this paper, we present findings from a study that assess the efficacy of using synthetically generated character instances to augment an existing dataset of ancient Greek character images for use in machine learning models. We complement our model exploration by engaging professional papyrologists to better understand the practical opportunities afforded by synthetic instances. Our results
 suggest that synthetic instances improve model performance for limited character classes, and may have unexplored effects on character classes more generally. We also find that trained papyrologists are unable to distinguish between synthetic and non-synthetic images and regard synthetic instances as valuable assets for professional and educational contexts. We conclude by discussing the practical implications of our research.
 
 <h3>-----------------------------------------------------------------------</h3>
-</div>
+
 The models trained for our paper are made availabl here openly for public used. The inference deployment consists of a helper library, deploy.py, as the backend with the Jupyter notebook, deploy.ipynb, as the frontend. To run the demonstration, simply open the notebook in an standard Anaconda environment with the necessary libraries. Further version and library information can be found below.
 
 The demonstration consists of several instances of the deploy() function. This function takes 3 arguments: architecture, trained model, and image directory. The architecture options include  "resnet" and "cnn" which are the 2 architectures used in my project. Trained model options include "all" and "synth", corresponding to the architecture trained on the AL_ALL or AL_SYNTH datasets. The third argument is simply the path to a directory containing images. Images must be 70x70 pixels.
